@@ -1,0 +1,41 @@
+import InputHandlerAbstract from "../../abstract/input";
+export default class HTML5InputHandler extends InputHandlerAbstract {
+    readonly keycodes: {
+        "13": string;
+        "32": string;
+        "27": string;
+        "8": string;
+        "73": string;
+        "84": string;
+        "80": string;
+        "72": string;
+        "83": string;
+        "70": string;
+        "87": string;
+        "37": string;
+        "38": string;
+        "39": string;
+        "40": string;
+        "82": string;
+        "71": string;
+        "89": string;
+        "66": string;
+        "49": string;
+        "50": string;
+        "51": string;
+        "52": string;
+        "53": string;
+        "54": string;
+        "55": string;
+        "56": string;
+        "57": string;
+        "48": string;
+        "187": string;
+        "189": string;
+        "106": string;
+        "219": string;
+        "221": string;
+        "67": string;
+        "ctrl": string[];
+    };
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"input.spec.js","sourceRoot":"","sources":["../../../src/platforms/core/input.spec.ts"],"names":[],"mappings":";;AACA,iCAAwC;AAExC,QAAQ,CAAC,eAAe,EAAE;IACxB,EAAE,CAAC,aAAa,EAAE;QAChB,IAAI,KAAK,GAAG,IAAI,eAAiB,CAAC,EAAE,CAAC,CAAC;QACtC,MAAM,CAAC,KAAK,CAAC,QAAQ,CAAC,IAAI,CAAC,CAAC,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;IAC7C,CAAC,CAAC,CAAC;AACL,CAAC,CAAC,CAAC"}
